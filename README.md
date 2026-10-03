@@ -235,8 +235,10 @@ gestor-clientes-php/
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Anthony Martins** como projeto pessoal de portfólio.
+Desenvolvido por **Anthony Neri Martins** como projeto pessoal de portfólio.
 
-## 📄 Licença
+## 📄 Direitos autorais
 
-Projeto livre para fins de estudo e demonstração.
+© 2026 Anthony Neri Martins. **Todos os direitos reservados.**
+
+O código está público apenas para **visualização**, como portfólio. Você pode baixar e executar o projeto localmente para avaliar o meu trabalho, mas não é permitido copiar, modificar, redistribuir ou usar este código, no todo ou em parte, sem autorização por escrito. Veja o arquivo [LICENSE](LICENSE).
