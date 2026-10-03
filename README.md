@@ -88,6 +88,13 @@ O caminho final deve ficar assim:
 C:\xampp\htdocs\gestor-clientes-php
 ```
 
+Se você tem o Git instalado, também pode clonar direto dentro de `C:\xampp\htdocs`:
+
+```bash
+cd C:\xampp\htdocs
+git clone https://github.com/anthonymartins0312-ops/gestor-clientes-php.git
+```
+
 ### 3. Abra o XAMPP Control Panel
 Menu Iniciar → **XAMPP Control Panel** (ou execute `C:\xampp\xampp-control.exe`).
 
